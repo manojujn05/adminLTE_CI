@@ -1,0 +1,55 @@
+.layout-fixed .control-sidebar{
+  height: 50vh !important;
+}
+
+.form-group label{
+	color:#666f76;
+}
+.user_img{
+	border-radius: 50%;
+    border: 1px solid #ccc;
+    padding: 5px;
+}
+.show img{
+	box-sizing: border-box;
+    box-shadow: 0 0.5rem 1rem rgba(0,0,0,.175);
+    background:#ccc;
+}
+
+.user-menu{
+	padding:0;
+	margin:0;
+	border:0px;
+	border-radius:0px;
+}
+
+.user-header>img {
+    z-index: 5;
+    height: 90px;
+    width: 90px;
+}
+
+.user-header {
+    height: 175px;
+    padding: 10px;
+    text-align: center;
+}
+
+.user-footer {
+    background-color: #d0b0b0;
+    padding: 10px;
+}
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.img-responsive1{
+	border-radius:50%;
+	padding:10px;
+}
+.artist_img{
+  height:100px;
+  width:100px;
+  overflow:hidden;
+}
